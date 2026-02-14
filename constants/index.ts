@@ -51,7 +51,7 @@ export const LINKS = [
 export const EXTRA_LINKS = {
   linkedin: "https://www.linkedin.com/in/yousra-kiani-a33a3928a/",
   github: "https://github.com/yw-kiani",
-  resume: "/resume.pdf",
+  resume: "/my-resume.pdf",
   source_code: "https://github.com",
   email: "ywkiani@gmail.com",
 } as const;
